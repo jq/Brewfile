@@ -22,6 +22,10 @@ brew cask install calibre
 brew cask install google-chrome
 brew cask install java
 brew cask install slack
+brew cask install sublime-text
+
+brew tap caskroom/versions
+brew cask install java8
 
 brew tap homebrew/bundle
 
@@ -29,6 +33,7 @@ brew tap homebrew/core
 brew install node
 brew install pcre
 brew install mas
+brew install zsh-syntax-highlighting
 brew install python
 brew install tree
 brew install openssl
